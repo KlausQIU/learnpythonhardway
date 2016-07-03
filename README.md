@@ -1,3 +1,4 @@
 # learnpythonhardway
 learnpythonhardway
-learnpythonhardway 笔记。
+学习 learnpythonhardway 的笔记。
+link：http://learnpythonthehardway.org/book/
